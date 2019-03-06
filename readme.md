@@ -219,6 +219,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [getnews.tech](https://github.com/omgimanerd/getnews.tech) - Checking the latest news headlines from various news outlets on the web.
 * [glances](https://github.com/nicolargo/glances) - A top/htop alternative.
 * [googler](https://github.com/jarun/googler) - Search Google from your terminal.
+* [grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
 * [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor.
 * [homebrew-cask](https://github.com/caskroom/homebrew-cask) - CLI workflow for the administration of macOS applications distributed as binaries.
 * [howdoi](https://github.com/gleitz/howdoi) - Instant code answers and examples from the command line
@@ -254,6 +255,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [youtube-dl](https://rg3.github.io/youtube-dl/) - download videos from YouTube
 * [z](https://github.com/rupa/z) - A tool to jump to folders based on history matching a given regex
 * [z.lua](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits.
+
 
 **[⬆ back to top](#table-of-contents)**
 
